@@ -1,1 +1,1 @@
-https://github.com/RobbensLeftFoot/hw0.github.io
+https://robbensleftfoot.github.io/hw0.github.io/
